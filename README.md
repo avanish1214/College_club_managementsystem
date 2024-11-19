@@ -1,6 +1,6 @@
 COLLEGE CLUB MANAGEMENT SYSTEM
 
-Project Overview
+Project Overview:-
 The College Club Management System is a web-based platform designed to streamline the operations and management of college clubs. It provides a central hub for students, teams, and clubs to interact, manage events, share notices, and track member participation.
 The system aims to simplify club administration while encouraging student involvement and engagement.
 
